@@ -6,13 +6,13 @@ Download all the files and run the `main.py` file then the game should be starti
 ## About the Game
 So, there will be few ghosts roaming on the screen, you should kill the ghosts with the gun you have with limited ammo. The user should try to aim to score high by killing the ghosts.
 
-## Controls
+## Keys
 
-`Mouse Scroll up   -> Next Gun`
-`Mouse Scroll Down -> Previous Gun`
-`Right Click       -> Reload`
-`Left Click        -> Shoot`
-`Escape Key        -> Pause`
+`Mouse Scroll up   -> Next Gun`\n
+`Mouse Scroll Down -> Previous Gun`\n
+`Right Click       -> Reload`\n
+`Left Click        -> Shoot`\n
+`Escape Key        -> Pause`\n
 
 ##  Developed by
 Hari Om Swarup S A

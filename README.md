@@ -8,11 +8,11 @@ So, there will be few ghosts roaming on the screen, you should kill the ghosts w
 
 ## Keys
 
-`Mouse Scroll up   -> Next Gun`\n
-`Mouse Scroll Down -> Previous Gun`\n
-`Right Click       -> Reload`\n
-`Left Click        -> Shoot`\n
-`Escape Key        -> Pause`\n
+`Mouse Scroll up   -> Next Gun`
+`Mouse Scroll Down -> Previous Gun`
+`Right Click       -> Reload`
+`Left Click        -> Shoot`
+`Escape Key        -> Pause`
 
 ##  Developed by
 Hari Om Swarup S A

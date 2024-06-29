@@ -18,6 +18,3 @@ So, there will be few ghosts roaming on the screen, you should kill the ghosts w
 `Right Click       -> Reload`
 `Left Click        -> Shoot`
 `Escape Key        -> Pause`
-
-##  Developed by
-Hari Om Swarup S A
